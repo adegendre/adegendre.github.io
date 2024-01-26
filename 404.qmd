@@ -1,0 +1,8 @@
+---
+title: "Page Not Found!"
+---
+
+The page you are looking for is not here (perhaps it was moved or renamed).
+
+Try using the {{< fa magnifying-glass >}} **search button** at the top of the page or <a href="https://www.google.com/search?q=site%3Aadegendre.com" target="_blank">searching on Google.</a>
+

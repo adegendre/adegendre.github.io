@@ -1,0 +1,12 @@
+---
+title: "Academic Writing"
+description: "Resources to improve academic writing skills"
+date: 2024-01-22
+categories: [Writing] # self-defined categories
+# image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Writing is a core part of our work as academics. I am always surprised to hear my junior peers say that they will invest in their writing skills later on in their career, as if writing doesn't matter for getting our papers published and actually surviving in academia. First of all, the quality of our prose DOES matter for getting our papers out (my co-author Jan Feld just published an experimental study on this!). Second, spending a bit of energy polishing our papers can be enjoyable, much like any craft that one hones with time. Here are some resources that I keep coming back to, especially when I need inspiration for writing: 
+
+- the one and only <a href="https://www.amazon.com/Economical-Writing-Third-Thirty-Five-Persuasive-dp-022644807X/dp/022644807X/ref=dp_ob_title_bk" target="_blank">**Economical Writing**</a> by Deirdre McCloskey and Stephen Ziliak. This book is beautifully written, insightful and hilarious! I love their tip about writing down ideas on single pieces of paper or postits and playing with the order, and the tip about cutting every third word when polishing a text. 

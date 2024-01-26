@@ -1,0 +1,9 @@
+---
+title: "Blog"
+listing: 
+  contents: posts # all Quarto docs in the `posts` directory
+  type: table  # or `table` or `grid`
+  fields: [date, title, categories] # adjust fields that appear in the table
+  sort: "date desc"
+  categories: true 
+---

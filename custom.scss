@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+$theme: "custom";
+
+// colors
+
+// fonts
+
+// body
+
+// links
+
+// TOC
+
+// navbar
+
+// footer
+
+/*-- scss:rules --*/
+
+// Put all the icons in a single row in the hamburger menu
+.navbar-nav.navbar-nav-scroll.ms-auto {
+    flex-direction: row;
+}
+
+/*-- scss:functions --*/
+
+/*-- scss:mixins --*/
+
+/*-- scss:uses --*/

@@ -1,0 +1,21 @@
+---
+title: "Creating an academic website using RMarkdown"
+description: "Resources and tutorials I used to create my personal website using RMarkdown"
+date: 2022-01-01
+categories: [Coding] # self-defined categories
+# image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+These are the resources I used to make my own website. I tried different things (Wordpress, Squarespace, Jekyll...), and I find that the easiest way by far to create a static website is to use R and host your page via Github Pages. Github allows you to host your website for free, update it super quickly, and will never bug (unlike those sneaker ruby gem updates for your Jekyll page...) :-) Sure, you could make your page using Google Sites, but making your own page from scratch is much more fun! 
+
+- Start from Emily Zabor's super simple guide <a href="https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html" target="_blank">here</a>. Run through the complete guide first, before tweaking the design.
+- Learn the basics of RMarkdown to create your own content:
+  + RMarkdown basics <a href="https://rmarkdown.rstudio.com/authoring_basics.html" target="_blank">here</a>
+  + More RMarkdown basics <a href="https://monashbioinformaticsplatform.github.io/2017-11-16-open-science-training/topics/rmarkdown.html" target="_blank">here</a> 
+  + Making websites using RMarkdown <a href="https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html" target="_blank">here</a> 
+- Then tweak the design of your website by digging into more advanced topics using more complete guides: 
+  + This online book <a href="https://rstudio4edu.github.io/rstudio4edu-book/index.html" target="_blank">here</a> 
+  + Yan Holtz's RMarkdown tips <a href="https://holtzy.github.io/Pimp-my-rmd/" target="_blank">here</a> 
+  + Academic Icons (e.g. for your contact list) <a href="https://jpswalsh.github.io/academicons/" target="_blank">here</a> 
+- Note: for more control, you may want to learn a bit about HTML for organizing content and CSS for styling.

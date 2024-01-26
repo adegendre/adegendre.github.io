@@ -1,0 +1,1 @@
+Sitemap: https://adegendre.github.io/demosite/sitemap.xml

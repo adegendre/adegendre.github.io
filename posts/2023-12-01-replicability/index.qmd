@@ -1,0 +1,24 @@
+---
+title: "Replicability and Reproducibility"
+description: "Food for Thought"
+date: 2023-12-01
+categories: [Doing science] # self-defined categories
+# image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+
+This is a topic that I find particularly important. I was lucky to have peers at Maastricht Uni with whom I could have great discussions about research practices, ethics and how to do our research the best we could -- big shoutout to <a href="https://sites.google.com/view/henrikzaunbrecher" target="_blank">Henrik Zaunbrecher</a> and to my amazing coauthors <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a> for giving me so much food for thought. We talked a lot about the *replication crisis* and the *file drawer problem* (among many things). Here are some resources I've found over the years that have nourished my thoughts on this topic, and have helped me progress in my own practices.
+
+- This book <a href="http://emiguel.econ.berkeley.edu/books/transparent-and-reproducible-social-science-research/" target="_blank">**Transparent and Reproducible Social Science Research**</a> by Garret Christensen, Jeremy Freese, and Edward Miguel. A fantastic introduction into the issues of the replicability problems, the incentive problems in modern science and practical advice to improve our research practices to move forward collectively. It's also a relatively quick and easy read.\
+
+- <a href="https://i4replication.org" target="_blank">**The Institute for Replication**</a> is a research lab led by Abel Brodeur and his team. They do amazing work to normalize replications, increase awareness around the need for replicating papers, and improving researchers' incentives to replicate the work of others and make their own work more replicable. They have tons of teaching resources to transmit best practices to students, check out their website!\
+
+- <a href="http://datacolada.org" target="_blank">**Data Colada**</a> is a great blog maintained by Profs. Uri Simonsohn, Leif Nelson and Joe Simmons. This blog is a gem: they keep the tone light but they always making you see things from a new perspective. They do some very serious data forensic work, write about best practices (e.g. I LOVE their post about the Groundhogday package for versioning in R), and propose new ways to detect p-hacking -- among other topics. 
+
+- People and institutions to follow who do very interesting work on meta-science: the <a href="https://www.bitss.org" target="_blank">**BITSS (Berkeley Initiative for Transparency in the Social Sciences)**</a>, <a href="https://www.simine.com" target="_blank">**Simine Vazire**</a> and <a href="https://fionaresearch.wordpress.com/about/" target="_blank">**Fiona Fidler**</a> who co-direct the <a href="https://www.metamelb.org" target="_blank">**MetaMelb Research Group**</a>. I also find a lot of inspiration in the work and blog of <a href="http://www.stat.columbia.edu/~gelman/" target="_blank">**Andrew Gelman**</a> and <a href="https://sites.google.com/view/rachaelmeager/home" target="_blank">**Rachael Meager**</a>. 
+
+- A two-part podcast on Freakonomics Radio just came out about academic fraud. They invited some of the most influential researchers at the forefront of the discussions on meta-science and what we can do to improve research practices: Brian Nosek, Simine Vazire, Uri Simonsohn, Leif Nelson and Joe Simmons. Highly recommend both podcasts: 
+  - <a href="https://freakonomics.com/podcast/why-is-there-so-much-fraud-in-academia/" target="_blank">Part 1: EPISODE 572 Why Is There So Much Fraud in Academia?</a>
+  - <a href="https://freakonomics.com/podcast/can-academic-fraud-be-stopped/" target="_blank">Part 2: EPISODE 573 Can Academic Fraud Be Stopped?</a>
+  

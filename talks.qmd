@@ -1,0 +1,85 @@
+---
+title: "Talks"
+---
+
+## 2024
+
+May-24  Aarhus University TrygFonden's Child Research Seminar (Scheduled) \
+May-24  Competence Centre on Microeconomic Evaluation Seminar Series, European Commission (Scheduled) \
+
+## 2023
+
+Aug-23  University of Technology Sydney \
+May-23  University of Melbourne EdFest \
+May-23  MetaLab University of Melbourne \
+May-23  SOLE Annual Meeting \
+May-23  University of Melbourne \
+Mar-23  University of New South Wales \
+Jan-23  ADRES Université Paris-Dauphine \
+Jan-23  Université Paris-Saclay (cancelled) \
+Jan-23  CREST Paris \
+
+## 2022
+
+Oct-22  "What Works in Education?" STEP UP Conference, UNSW \
+Jul-22  NBER Summer Institute 2022 Children \
+Jun-22  11th Annual Conference of the American Society of Health Economists (ASHEcon) \
+Jan-22	AEA/ASSA Conference	\
+
+## 2021
+
+Dec-21  European Winter Meeting of the Econometric Society 2021 \
+Dec-21  University of Potsdam  \
+Nov-21  Irish Postgraduate and Early Career Economics (IPECE) Workshop 2021 \
+Sep-21  University of Wollongong  \
+Sep-21	Annual Conference of the European Society of Labour Economics (EALE) \
+Aug-21	23rd Australia/New Zealand Labour Econometrics Workshop (LEW) \
+Jun-21	HCEO-NES Online Summer School on Socioeconomic Inequality 2021	\
+Jun-21	The University of Sydney	\
+Jun-21	11th International Workshop on Applied Economics of Education (IWAEE)	\
+Jun-21	34th Annual Meeting of the European Society of Population Economics	\
+Jun-21	Swedish Institute for Social Research (SOFI, Stockholm University)	\
+
+## 2020
+
+Nov-20	The University of Sydney	\
+
+## 2019
+
+Sep-19	University of Potsdam 6th PhD Workshop in Empirical Economics	\
+Jun-19	10th International Workshop on Applied Economics of Education (IWAEE)	\
+May-19	Workshop on The Effectiveness of Children's Education Around the Globe, European University Institute	\
+May-19	University College Dublin	\
+Apr-19	2nd IZA/Briq Behavioral Economics of Education Workshop	\
+
+## 2018
+
+Oct-18	3rd IZA Economics of Education Workshop	\
+Oct-18	Applied Micro Workshop of the Department of Economics, The University of Melbourne	\
+Aug-18	21st Labor Econometrics Workshop	\
+Jun-18	9th International Workshop on Applied Economics of Education (IWAEE)	\
+Jun-18	32nd Annual Meeting of the European Society of Population Economics	\
+Jun-18	IZA World Labor Conference	\
+May-18	IZA 21st Summer School in Labor Economics	\
+Apr-18	The University of Melbourne, Department of Economics	\
+Apr-18	RMIT Seminar Series	\
+
+## 2017
+
+Dec-17	Maastricht University, School of Economics	\
+Oct-17	Victoria University at Wellington	\
+Aug-17	32nd Annual Congress of the European Economic Association and 70th European Meeting of the Econometric Society	\
+Jun-17	8th International Workshop on Applied Economics of Education (IWAEE)	\
+Jun-17	European Society of Population Economics	\
+
+## 2016
+
+Dec-16	Maastricht University	\
+Oct-16	The University of Melbourne, Melbourne Institute	\
+Sep-16	3rd Annual Meeting of the Berlin Interdisciplinary Education Network	\
+May-16	Dynamics of Inequalities and their Perceptions, Aix-Marseille Université	\
+
+
+<!--
+Add separation here between body and footer
+-->

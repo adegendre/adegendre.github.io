@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: docs
+
+render:
+    - "*.qmd"
+
+resources:
+    - "files/**"
+    - "papers/**"
+    
+website:
+  title: "Alexandra de Gendre"
+  favicon: "/files/favicon-32x32.png"
+  site-url: "https://adegendre.github.io/demosite/"
+  repo-url: "https://github.com/adegendre/demosite"
+  
+  navbar:
+    pinned: true 
+    
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: files/AdG_CV.pdf
+        target: _blank
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Blog"
+        href: blog.qmd
+    
+    right: 
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: mailto:a.degendre@unimelb.edu.au
+      - text: "{{< iconify ph butterfly-bold size=1.2em title='Bluesky' >}}"
+        href: https://bsky.app/profile/adegendre.bsky.social
+        rel: me
+        target: _blank
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0001-6409-1982
+        target: _blank
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=3A-i5UUAAAAJ
+        target: _blank
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/adegendre
+        rel: me
+        target: _blank
+  
+  page-footer:
+    left: |
+      <span>{{< fa brands orcid >}} <strong>ORCID</strong> <a href="https://orcid.org/0000-0001-6409-1982" target=_blank>0000-0001-6409-1982</a> </span>
+    center: |
+      Copyright 2024 Alexandra de Gendre\
+      All rights reserved.
+    right: |
+      <span>Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+  
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+
+
+

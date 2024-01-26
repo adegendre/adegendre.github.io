@@ -1,0 +1,28 @@
+---
+title: "Creating an academic website using Quarto"
+description: "Resources and tutorials I used to create my personal website"
+date: 2024-01-22
+categories: [Coding] # self-defined categories
+# image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Here are resources and tutorials I used to create my personal website using Quarto. My previous website was made using RMarkdown and RStudio, but I have now updated to Quarto, which is the modernized version of RMarkdown.  
+
+- The official <a href="https://quarto.org/docs/websites" target="_blank">Quarto website</a> to learn everything about Quarto and making Quarto websites.
+- A hands on tutorial to set up a basic Quarto website: (short) Youtube series by Joshua French :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9qCS8ODs4o?si=p3sQmYULoR0jzLgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- I wanted to add a small blog section on my website, and I used this <a href="https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/" target="_blank">tutorial</a> by Samantha Csik. The idea behind this blog is to exploit the listings feature of Quarto, and to store the posts appropriately. 
+
+- Next, I did some custom styling (scss). To start custom styling, create a text file (e.g., "mystyle.scss") and refer to it in your YAML under "theme". I like to place this file in my root directly where the css file is also placed, but you can place it wherever you want as long as you refer to it correctly in your YAML file. Samantha Csik also put together a great set of slides <a href="https://ucsb-meds.github.io/customizing-quarto-websites/#/use-sass" target="_blank">here</a> that explains custom styling. See this Youtube video by Albert Rapp for a tutorial: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jX4_Dnzhl0M?si=sIWz5AVQziPbochx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<!-- 
+https://www.andrewheiss.com
+https://www.andreashandel.com/posts/2023-06-13-custom-callouts-quarto/ 
+-->

@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+---
+
+## Supervision
+
+#### The University of Melbourne
+
+- 1 Honour student co-supervision (2022)
+
+#### University of Sydney, Australia
+
+- 3 Honours student co-supervision (Semester 2 2020)
+- 1 Master student co-supervision (Semester 2 2020)
+
+## Teaching
+
+#### Maastricht University, Netherlands
+
+- Behavioral Economics (TA in 2015, 2016)
+    - Graduate course
+    - Course coordinator: Prof. Dr. Thomas Dohmen
+    - Duties: teaching, grading, contributing to curriculum design
+    - Teaching evaluation: 8.8 / 10  (N=21)
+	
+- Personnel Economics (TA in 2015, 2016, 2017)
+    - Undergraduate course
+    - Course coordinator: Dr. Steffen Künn
+    - Duties: teaching, grading, contributing to curriculum design
+    - My teaching evaluation: 9.3 / 10 (N=70)
+
+- Presentation Skills (TA in 2015)
+    - Undergraduate course
+    - Student evaluation: 8.7/10 
+    
+
+<!--
+Add separation here between body and footer
+-->
