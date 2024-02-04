@@ -4,7 +4,30 @@ $theme: "custom";
 
 // colors
 
+$white:    #FFFFFF !default;
+$lightblue:  #90E0EF !default;
+$mediumblue:  #0077B6 !default;
+$dkblue:    #023E8A !default;
+
+// Navbar
+$navbar-bg: $dkblue !default;
+$navbar-fg: $white !default;
+$navbar-hl: $lightblue !default;
+
+// Links
+$link-color: $mediumblue !default;
+$link-decoration: none !default;
+$link-hover-color: $dkblue !default;
+$link-hover-decoration: underline !default;
+
 // fonts
+
+$font-family-serif: "Argesta" !default;
+
+$headings-font-family: $font-family-serif !default;
+$headings-font-weight: 800 !default;
+$navbar-font-family: $font-family-serif !default;
+$toc-font-family: $font-family-serif !default;
 
 // body
 
