@@ -2,7 +2,7 @@
 
 $theme: "custom";
 
-// colors
+// color system 
 
 $white:    #FFFFFF !default;
 $lightblue:  #90E0EF !default;
@@ -29,21 +29,19 @@ $headings-font-weight: 800 !default;
 $navbar-font-family: $font-family-serif !default;
 $toc-font-family: $font-family-serif !default;
 
-// body
-
-// links
-
-// TOC
-
-// navbar
-
-// footer
 
 /*-- scss:rules --*/
 
 // Put all the icons in a single row in the hamburger menu
 .navbar-nav.navbar-nav-scroll.ms-auto {
     flex-direction: row;
+}
+
+.callout-note {
+  background-color: $white;
+  // color: $mediumblue; // text color
+  border-radius: 0.5rem; // rounded edges 
+  margin: 0.25rem 0; // distance to text above and below box 
 }
 
 /*-- scss:functions --*/
