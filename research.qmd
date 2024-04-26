@@ -33,7 +33,16 @@ toc: true
    **Media**: <a href="https://theconversation.com/being-in-a-class-with-high-achievers-improves-students-test-scores-we-tried-to-find-out-why-171400" target="_blank">The Conversation (Nov 2021)</a> | ABC Radio Sydney Afternoons (15 Nov 2021)
 
 
-4. **Mass Reproducibility and Replicability: A New Hope**, with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home" target="_blank">Derek Mikiola</a> and many others. 
+4. **Integrating Minorities in the Classroom: The Role of Students, Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
+
+   ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
+   We develop a multi-agent model of the education production function where investments of students, parents, and teachers are linked to the presence of minorities in the classroom. We then test the key implications of this model using rich survey data and a mandate to randomly assign students to classrooms. Consistent with our model, we show that exposure to minority peers decreases student effort, parental investments, and teacher engagement and it results in lower student test scores. Observables correlated with minority status explain less than a third of the reduced-form test score effect while over a third can be descriptively attributed to endogenous responses of the agents.  
+   ::: 
+   **Working Paper**: <a href="https://adegendre.github.io/papers/Minorities_in_the_Classroom.pdf" target="_blank">Latest version (April 2024)</a> \
+   **Other**: Best Paper Award at the 2023 Australian Labour Econometrics Workshop.
+   
+   
+5. **Mass Reproducibility and Replicability: A New Hope**, with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home" target="_blank">Derek Mikiola</a> and many others. 
 
    ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
    This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments. It reveals several patterns. First, we uncover a high rate of fully computationally reproducible results (over 85%). Second, excluding minor issues like missing packages or broken pathways, we uncover coding errors for about 25% of studies, with some studies containing multiple errors. Third, we test the robustness of the results to 5,511 re-analyses. We find a robustness reproducibility of about 70%. Robustness reproducibility rates are relatively higher for re-analyses that introduce new data and lower for re-analyses that change the sample or the definition of the dependent variable. Fourth, 52% of re-analysis effect size estimates are smaller than the original published estimates and the average statistical significance of a re-analysis is 77% of the original. Lastly, we rely on six teams of researchers working independently to answer eight additional research questions on the determinants of robustness reproducibility. Most teams find a negative relationship between replicators’ experience and reproducibility, while finding no relationship between reproducibility and the provision of intermediate or even raw data combined with the necessary cleaning codes.
@@ -41,7 +50,7 @@ toc: true
    **Working Paper**: <a href="https://adegendre.github.io/papers/I4R-DP107.pdf" target="_blank">I4R Discussion Paper Series (April 2024)</a>
 
 
-5. **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.
+6. **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.
 
    ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
    We analyse the effects of a national student finance reform in the Netherlands, which replaced universal subsidies for higher education students by low-interest loans. We show that this reform had a large impact on education choices of secondary school students, lowering their enrolments in college-preparing tracks and increasing the share of students specializing in STEM subjects. The reform also affected the living arrangements of new college entrants. Our findings highlight that secondary school students respond to the modes of higher education financing well ahead of their graduation, and that financial aid uncertainty alone can deter many from pursuing higher education.
@@ -49,7 +58,7 @@ toc: true
    **Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Kabatek_2021_Melbourne_Institute_WP_wp2021n12.pdf" target="_blank">Melbourne Institute (July 2021)</a> | <a href="https://adegendre.github.io/papers/deGendre_Kabatek_2021_IZA_dp14686.pdf" target="_blank">IZA (Aug 2021)</a>
    
    
-6. **Two Decades of Welfare Reforms in Australia: How Did They Affect Single Mothers and Their Children?**, with <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a> and Angela Zhang.
+7. **Two Decades of Welfare Reforms in Australia: How Did They Affect Single Mothers and Their Children?**, with <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a> and Angela Zhang.
 
    ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
    Worldwide, single mothers are profoundly time and income constrained, making them heavily reliant on government transfers. We examine how welfare reforms that introduced mutual obligations affected the economic position of single mothers and the development of their children over the past two decades in Australia. Using nationally representative longitudinal data, we show that disposable incomes of single-mother households were significantly reduced relative to partnered mothers since the 2005 Welfare-to-Work Act came into effect in July 2006, a downward trend that was aggravated by the Global Financial Crisis and the 2013 suspension of grandfathered single parenting payment rules. The reform diminished parenting and family payments for single mothers, who compensated income loss by increasing reliance on disability pension payments, work hours, and child-care expenditures. We then use nationally representative cohort data to estimate the impact of single motherhood on child skill development, following children who entered primary school when their mothers were affected by the Welfare-to-Work reform. We find unadjusted single-motherhood gaps of 0.2 SD in cognitive and 0.3 SD in non-cognitive skills. Non-cognitive skill gaps are only partially explained by differences in observable characteristics, while cognitive skill gaps are fully explained by observable characteristics. Differences in disposable household income between single and partnered mother households explain over 50% of the observed cognitive ability gaps in childhood and 25% in late adolescence. In the presence of positive spillover effects, we propose that welfare payments to vulnerable families may function as a social investment rather than a sunk cost.
@@ -75,16 +84,7 @@ toc: true
    **Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf" target="_blank">JMP version (31 August 2022)</a>
    
    
-2. **Integrating Minorities in the Classroom: The Role of Students, Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
-
-   ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
-   We develop and empirically test a theory of integrating minorities in schooling that incorporates endogenous responses of the majority students, parents, and teachers in these classrooms. Using a unique policy that randomly assigns children to classrooms in Taiwanese middle schools and rich survey data, we show that exposure to Indigenous students lowers the test scores of the majority students. A third of this effect can be attributed to the adverse characteristics of the Indigenous students, 16\% to the reduction in study efforts of other students, and 22\% is due to the negative reactions of teachers and parents.  
-   ::: 
-   **Status**: Draft in preparation. \
-   **Other**: Best Paper Award at the 2023 Australian Labour Econometrics Workshop.
-   
-   
-3. **Affirmative Action during Early Childhood: School Choice, Academic Performance and School Satisfaction**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+2. **Affirmative Action during Early Childhood: School Choice, Academic Performance and School Satisfaction**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
 
    ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
    We estimate the impact of income-based priority points on children’s’ outcomes and parental choices from preschool to Grade 6. With administrative records from Madrid, we use two sharp discontinuities in household income per capita which determine income-based priority points within the Boston mechanism. We first show that income-based priority points change parents’ strategy: low-income parents apply to fewer closer schools and schools with lower absenteeism, while higher-income parents apply to more demanded and higher-scoring schools. The priority points increase the likelihood that children are admitted to their preferred school. Yet, we find economically insignificant effects on standardized test scores 6 years later. Lastly, using a matched survey of parents and children, we find small negative effects on parental and child satisfaction with the school, teachers and peers. Our findings indicate that low and higher-income parents respond in sophisticated but different ways to priority rules under the Boston Mechanism.
@@ -92,7 +92,7 @@ toc: true
    **Status**: First draft coming soon.
    
 
-4. **How do teachers respond to smaller classes? Evidence and implications for student learning**, with <a href="https://www.damonclark.net" target="_blank">Damon Clark, <a href="https://sites.google.com/site/pierredeschampsecon/home" target="_blank">Pierre Deschamps</a>, and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+3. **How do teachers respond to smaller classes? Evidence and implications for student learning**, with <a href="https://www.damonclark.net" target="_blank">Damon Clark, <a href="https://sites.google.com/site/pierredeschampsecon/home" target="_blank">Pierre Deschamps</a>, and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
 
    ::: {.callout-note title="abstract" collapse="true" appearance="minimal"}
    This paper studies how teachers respond to smaller classes and how these responses impact student achievement in the Region of Madrid (Spain), a region of over 1 million school-aged children and 3,000 schools. We exploit the maximum class size rule that generates sharp discontinuities in the relationship between school enrollment and average class size. We estimate the impact of class size reductions on teacher responses and student test scores using regression discontinuity models. We link data covering three key elements at the classroom level: administrative data on student enrollments, administrative data on student test scores and information on teacher responses from teacher survey data covering the universe of teachers and containing rich information on their classroom activities. Our findings shed light on the mechanisms that explain how class size reductions can enhance student learning.
@@ -100,6 +100,6 @@ toc: true
    **Status**: Preliminary results.
    
    
-5. **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com" target="_blank">Siqi Pan</a>.\
+4. **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com" target="_blank">Siqi Pan</a>.\
    **Status**: Designing field intervention and recruiting participants in the field.
 
