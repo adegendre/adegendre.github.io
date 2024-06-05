@@ -13,6 +13,7 @@ website:
   title: "Alexandra de Gendre"
   favicon: "/files/favicon-32x32.png"
   site-url: "https://adegendre.github.io/demosite/"
+  site-path: "/demosite/"
   repo-url: "https://github.com/adegendre/demosite"
   
   navbar:

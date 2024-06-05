@@ -36,11 +36,13 @@ $link-hover-decoration: underline !default;
     flex-direction: row;
 }
 
-.callout-note {
-  background-color: $white;
+.callout {
+  background-color:$white;
   // color: $mediumblue; // text color
+  border-left-color: $white;
   border-radius: 0.5rem; // rounded edges 
-  margin: 0.25rem 0; // distance to text above and below box 
+  margin-top: 0rem 0; // distance to text above and below box 
+  margin-bottom: 0rem 0;
 }
 
 /*-- scss:functions --*/
