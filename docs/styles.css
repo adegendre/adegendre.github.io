@@ -1,1 +1,9 @@
 /* css styles */
+
+details {
+    margin-left: -0.75rem;
+    margin-top: -0.75rem;
+    margin-bottom: -0.75rem;
+    padding: .8em;
+    border-radius: 0px
+}
