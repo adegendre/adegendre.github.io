@@ -41,9 +41,9 @@ Media: <a href="https://theconversation.com/being-in-a-class-with-high-achievers
 We develop a multi-agent model of the education production function where investments of students, parents, and teachers are linked to the presence of minorities in the classroom. We then test the key implications of this model using rich survey data and a mandate to randomly assign students to classrooms. Consistent with our model, we show that exposure to minority peers decreases student effort, parental investments, and teacher engagement and it results in lower student test scores. Observables correlated with minority status explain less than a third of the reduced-form test score effect while over a third can be descriptively attributed to endogenous responses of the agents.
 </details>
 <a href="https://adegendre.github.io/papers/CEPR DP 19041.pdf">CEPR Discussion Paper (April 2024)</a>.\
+Media: <a href="https://cepr.org/voxeu/columns/how-students-parents-and-teachers-affect-integration-minorities-classroom">VoxEU Column</a>.\    
 Other: Best Paper Award at the 2023 Australian Labour Econometrics Workshop.\
-Media: <a href="https://cepr.org/voxeu/columns/how-students-parents-and-teachers-affect-integration-minorities-classroom">VoxEU Column</a>    
-   
+
    
 **Mass Reproducibility and Replicability: A New Hope**, with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
 <details>
