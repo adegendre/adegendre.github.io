@@ -42,6 +42,7 @@ We develop a multi-agent model of the education production function where invest
 </details>
 <a href="https://adegendre.github.io/papers/CEPR DP 19041.pdf">CEPR Discussion Paper (April 2024)</a>.\
 Other: Best Paper Award at the 2023 Australian Labour Econometrics Workshop.\
+Media: <a href="https://cepr.org/voxeu/columns/how-students-parents-and-teachers-affect-integration-minorities-classroom">VoxEU Column</a>    
    
    
 **Mass Reproducibility and Replicability: A New Hope**, with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
