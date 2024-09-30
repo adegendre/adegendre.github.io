@@ -29,7 +29,7 @@ The idea that students benefit from same-sex teachers has motivated many policie
 <summary>Abstract</summary>
 We develop a method to detect local non-compliance with a random treatment to recover valid quasi-experiments from existing data. Our approach combines simulation-based methods and latent class modelling in an intuitive way, can detect and characterize non-compliant risk sets, and is computationally undemanding. To illustrate its usefulness, we use it to estimate ability peer effects in Taiwan, where we have unusually rich data and a national mandate to randomly assign students to classrooms within schools, but with partial non-compliance. After recovering a valid quasi-experiment, we first estimate ability peer effects in line with other studies. We then document precisely estimated null effects on 18 potential mechanisms, many of which have been hypothesized but never tested. Our application shows how to use our method to expand the causal evidence base using existing datasets.
 </details>
-<a href="de_Gendre_Salamanca_FishingAlgo_2024.pdf">Latest Version (September 2024)</a>.\
+<a href="https://adegendre.github.io/papers/de_Gendre_Salamanca_FishingAlgo_2024.pdf">Latest Version (September 2024)</a>.\
 <a href="https://adegendre.github.io/papers/deGendre_Salamanca_2020_IZA_dp13938.pdf">Older Version ("On the Mechanisms of Ability Peer Effects", Dec 2020)</a>.\
 Media: <a href="https://theconversation.com/being-in-a-class-with-high-achievers-improves-students-test-scores-we-tried-to-find-out-why-171400">The Conversation (Nov 2021)</a> | ABC Radio Sydney Afternoons (15 Nov 2021).\
 
