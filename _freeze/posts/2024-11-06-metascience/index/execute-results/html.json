@@ -1,0 +1,15 @@
+{
+  "hash": "d8deca2de662cbe5b48a19851d8cb3ac",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Metascience, Research & Innovation\"\ndescription: \"Food for Thought\"\ndate: 2023-12-01\ncategories: [Doing science] # self-defined categories\n# image: preview-image.png\ndraft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
