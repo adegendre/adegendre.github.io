@@ -17,15 +17,8 @@ We estimate the impact on child health of the unanticipated introduction of the 
 <a href="https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf">Slides NBER Summer Institute 2022 (July 2022)</a>.\
 
 
-**Same-Sex Teacher Effects in Education** (Under review), with <a href="https://janfeld.weebly.com">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com">Ulf Zölitz</a>.\
-<details>
-<summary>Abstract</summary>
-The idea that students benefit from same-sex teachers has motivated many policies around the world aimed at reducing gender inequalities. However, we do not know the size or generalizability such same-sex teacher effects. We fill this gap by conducting a meta-analysis and our own study using data from 90 countries. Our meta-analysis summarizes the literature and highlights that studies are often underpowered and difficult to compare because they use different methods. Our multi-country study overcomes these shortcomings by providing many high-powered and comparable estimates. Those estimates are ideal for learning about the generalizability of an effect. Our results reveal an interesting pattern. In secondary education, same-sex teacher effects are positive for most countries and outcomes. In primary education, effects are more mixed. For example, we find negative same-sex teacher effects on test scores for about half the countries. Our paper showcases how we can use multi-country studies to learn about the generalizability of an effect.
-</details>
-<a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Zoelitz_2024.pdf">University of Zurich Working Paper No. 438 (June 2023, Updated May 2024)</a> | <a href="https://www.role-model-effects.com">Website with interactive results</a>.\
-
-
 **Detecting Local Non-Compliance with Random Treatment Assignment in Quasi-Experiments, with an Application to Ability Peer Effects** (Under review), with <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
+(*Revise and Resubmit* at the **Journal of the European Economics Association**).\
 <details>
 <summary>Abstract</summary>
 We develop a method to detect local non-compliance with a random treatment to recover valid quasi-experiments from existing data. Our approach combines simulation-based methods and latent class modelling in an intuitive way, can detect and characterize non-compliant risk sets, and is computationally undemanding. To illustrate its usefulness, we use it to estimate ability peer effects in Taiwan, where we have unusually rich data and a national mandate to randomly assign students to classrooms within schools, but with partial non-compliance. After recovering a valid quasi-experiment, we first estimate ability peer effects in line with other studies. We then document precisely estimated null effects on 18 potential mechanisms, many of which have been hypothesized but never tested. Our application shows how to use our method to expand the causal evidence base using existing datasets.
@@ -33,6 +26,14 @@ We develop a method to detect local non-compliance with a random treatment to re
 <a href="https://adegendre.github.io/papers/de_Gendre_Salamanca_FishingAlgo_2024.pdf">Latest Version (September 2024)</a>.\
 <a href="https://adegendre.github.io/papers/deGendre_Salamanca_2020_IZA_dp13938.pdf">Older Version ("On the Mechanisms of Ability Peer Effects", Dec 2020)</a>.\
 Media: <a href="https://theconversation.com/being-in-a-class-with-high-achievers-improves-students-test-scores-we-tried-to-find-out-why-171400">The Conversation (Nov 2021)</a> | ABC Radio Sydney Afternoons (15 Nov 2021).\
+
+
+**Same-Sex Teacher Effects in Education** (Under review), with <a href="https://janfeld.weebly.com">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com">Ulf Zölitz</a>.\
+<details>
+<summary>Abstract</summary>
+The idea that students benefit from same-sex teachers has motivated many policies around the world aimed at reducing gender inequalities. However, we do not know the size or generalizability such same-sex teacher effects. We fill this gap by conducting a meta-analysis and our own study using data from 90 countries. Our meta-analysis summarizes the literature and highlights that studies are often underpowered and difficult to compare because they use different methods. Our multi-country study overcomes these shortcomings by providing many high-powered and comparable estimates. Those estimates are ideal for learning about the generalizability of an effect. Our results reveal an interesting pattern. In secondary education, same-sex teacher effects are positive for most countries and outcomes. In primary education, effects are more mixed. For example, we find negative same-sex teacher effects on test scores for about half the countries. Our paper showcases how we can use multi-country studies to learn about the generalizability of an effect.
+</details>
+<a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Zoelitz_2024.pdf">University of Zurich Working Paper No. 438 (June 2023, Updated May 2024)</a> | <a href="https://www.role-model-effects.com">Website with interactive results</a>.\
 
 
 **Integrating Minorities in the Classroom: The Role of Students, Parents and Teachers** (Submitted), with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou">Yves Zenou</a>.\
