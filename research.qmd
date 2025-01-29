@@ -76,7 +76,7 @@ This paper studies how students' relative rank affects their younger siblings’
 **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com">Siqi Pan</a>.\
 Status: RCT in the field.
 
-**The Sources of Researcher Variation in Economics**, with [Nick Huntington-Klein](https://nickchk.com), [Claus Pörtner](http://clausportner.com) and many others. 
+
 
 
 ## Other working papers
@@ -99,4 +99,7 @@ Worldwide, single mothers are profoundly time and income constrained, making the
 
 <!--
 target="_blank" removed because option at top. 
+
+**The Sources of Researcher Variation in Economics**, with [Nick Huntington-Klein](https://nickchk.com), [Claus Pörtner](http://clausportner.com) and many others. 
+
 -->
