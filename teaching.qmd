@@ -2,17 +2,14 @@
 title: "Teaching"
 ---
 
-## Supervision
+## Student Supervision
 
-#### The University of Melbourne
-
-- 1 Honour student co-supervision with Dr. Siqi Pan (Gloria Chen, 2022)
-
-#### University of Sydney, Australia
-
-- 1 Honour student co-supervision with Prof. Stefanie Schurer (Andrew Mallos, 2024)
-- 3 Honours student co-supervision with Prof. Stefanie Schurer (Semester 2 2020)
-- 1 Master student co-supervision with Prof. Stefanie Schurer (Semester 2 2020)
+- [2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne
+- [2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
 
 ## Teaching
 
