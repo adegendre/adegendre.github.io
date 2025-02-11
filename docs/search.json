@@ -32,14 +32,14 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Mar-25 Deakin University Seminar"
+    "text": "Sep-25 CREST Paris invited seminar (scheduled)\nMar-25 Curtin University invited seminar (scheduled)\nMar-25 Deakin University invited seminar (scheduled)"
   },
   {
     "objectID": "talks.html#section",
     "href": "talks.html#section",
     "title": "Talks",
     "section": "",
-    "text": "Mar-25 Deakin University Seminar"
+    "text": "Sep-25 CREST Paris invited seminar (scheduled)\nMar-25 Curtin University invited seminar (scheduled)\nMar-25 Deakin University invited seminar (scheduled)"
   },
   {
     "objectID": "talks.html#section-1",
@@ -105,11 +105,39 @@
     "text": "2016\nDec-16 Maastricht University seminar\nOct-16 Applied Micro seminar, Melbourne Institute, The University of Melbourne\nSep-16 3rd Annual Meeting of the Berlin Interdisciplinary Education Network\nMay-16 Dynamics of Inequalities and their Perceptions, Aix-Marseille Université"
   },
   {
-    "objectID": "posts/2024-01-22-quarto-website/index.html",
-    "href": "posts/2024-01-22-quarto-website/index.html",
-    "title": "Creating an academic website using Quarto",
+    "objectID": "posts/2022-01-01-R-website/index.html",
+    "href": "posts/2022-01-01-R-website/index.html",
+    "title": "Creating an academic website using RMarkdown",
     "section": "",
-    "text": "Here are resources and tutorials I used to create my personal website using Quarto. My previous website was made using RMarkdown and RStudio, but I have now updated to Quarto, which is the modernized version of RMarkdown.\n\nThe official Quarto website to learn everything about Quarto and making Quarto websites.\nA hands on tutorial to set up a basic Quarto website: (short) Youtube series by Joshua French :\n\n\n\n\nI wanted to add a small blog section on my website, and I used this tutorial by Samantha Csik. The idea behind this blog is to exploit the listings feature of Quarto, and to store the posts appropriately.\nNext, I did some custom styling (scss). To start custom styling, create a text file (e.g., “mystyle.scss”) and refer to it in your YAML under “theme”. I like to place this file in my root directly where the css file is also placed, but you can place it wherever you want as long as you refer to it correctly in your YAML file. Samantha Csik also put together a great set of slides here that explains custom styling. See this Youtube video by Albert Rapp for a tutorial:"
+    "text": "These are the resources I used to make my own website. I tried different things (Wordpress, Squarespace, Jekyll…), and I find that the easiest way by far to create a static website is to use R and host your page via Github Pages. Github allows you to host your website for free, update it super quickly, and will never bug (unlike those sneaker ruby gem updates for your Jekyll page…) :-) Sure, you could make your page using Google Sites, but making your own page from scratch is much more fun!\n\nStart from Emily Zabor’s super simple guide here. Run through the complete guide first, before tweaking the design.\nLearn the basics of RMarkdown to create your own content:\n\nRMarkdown basics here\nMore RMarkdown basics here\nMaking websites using RMarkdown here\n\nThen tweak the design of your website by digging into more advanced topics using more complete guides:\n\nThis online book here\nYan Holtz’s RMarkdown tips here\nAcademic Icons (e.g. for your contact list) here\n\nNote: for more control, you may want to learn a bit about HTML for organizing content and CSS for styling."
+  },
+  {
+    "objectID": "posts/2024-01-22-academic-writing/index.html",
+    "href": "posts/2024-01-22-academic-writing/index.html",
+    "title": "Academic Writing",
+    "section": "",
+    "text": "Writing is a core part of our work as academics. I am always surprised to hear my junior peers say that they will invest in their writing skills later on in their career, as if writing doesn’t matter for getting our papers published and actually surviving in academia. First of all, the quality of our prose DOES matter for getting our papers out (my co-author Jan Feld just published an experimental study on this!). Second, spending a bit of energy polishing our papers can be enjoyable, much like any craft that one hones with time. Here are some resources that I keep coming back to, especially when I need inspiration for writing:\n\nthe one and only Economical Writing by Deirdre McCloskey and Stephen Ziliak. This book is beautifully written, insightful and hilarious! I love their tip about writing down ideas on single pieces of paper or postits and playing with the order, and the tip about cutting every third word when polishing a text."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "[2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne\n[2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney"
+  },
+  {
+    "objectID": "teaching.html#student-supervision",
+    "href": "teaching.html#student-supervision",
+    "title": "Teaching",
+    "section": "",
+    "text": "[2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne\n[2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "Teaching",
+    "text": "Teaching\n\nMaastricht University, Netherlands\n\nBehavioral Economics (TA in 2015, 2016)\n\nGraduate course\nCourse coordinator: Prof. Dr. Thomas Dohmen\nDuties: teaching, grading, contributing to curriculum design\nTeaching evaluation: 8.8 / 10 (N=21)\n\nPersonnel Economics (TA in 2015, 2016, 2017)\n\nUndergraduate course\nCourse coordinator: Dr. Steffen Künn\nDuties: teaching, grading, contributing to curriculum design\nMy teaching evaluation: 9.3 / 10 (N=70)\n\nPresentation Skills (TA in 2015)\n\nUndergraduate course\nStudent evaluation: 8.7/10"
   },
   {
     "objectID": "research.html",
@@ -147,39 +175,11 @@
     "text": "Other working papers\nFrom Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students, with Jan Kabátek.\n\n\n\nAbstract\n\nWe analyse the effects of a national student finance reform in the Netherlands, which replaced universal subsidies for higher education students by low-interest loans. We show that this reform had a large impact on education choices of secondary school students, lowering their enrolments in college-preparing tracks and increasing the share of students specializing in STEM subjects. The reform also affected the living arrangements of new college entrants. Our findings highlight that secondary school students respond to the modes of higher education financing well ahead of their graduation, and that financial aid uncertainty alone can deter many from pursuing higher education.\n\n\nIZA Discussion Paper (Aug 2021).\n\nTwo Decades of Welfare Reforms in Australia: How Did They Affect Single Mothers and Their Children?, with Stefanie Schurer and Angela Zhang.\n\n\n\nAbstract\n\nWorldwide, single mothers are profoundly time and income constrained, making them heavily reliant on government transfers. We examine how welfare reforms that introduced mutual obligations affected the economic position of single mothers and the development of their children over the past two decades in Australia. Using nationally representative longitudinal data, we show that disposable incomes of single-mother households were significantly reduced relative to partnered mothers since the 2005 Welfare-to-Work Act came into effect in July 2006, a downward trend that was aggravated by the Global Financial Crisis and the 2013 suspension of grandfathered single parenting payment rules. The reform diminished parenting and family payments for single mothers, who compensated income loss by increasing reliance on disability pension payments, work hours, and child-care expenditures. We then use nationally representative cohort data to estimate the impact of single motherhood on child skill development, following children who entered primary school when their mothers were affected by the Welfare-to-Work reform. We find unadjusted single-motherhood gaps of 0.2 SD in cognitive and 0.3 SD in non-cognitive skills. Non-cognitive skill gaps are only partially explained by differences in observable characteristics, while cognitive skill gaps are fully explained by observable characteristics. Differences in disposable household income between single and partnered mother households explain over 50% of the observed cognitive ability gaps in childhood and 25% in late adolescence. In the presence of positive spillover effects, we propose that welfare payments to vulnerable families may function as a social investment rather than a sunk cost.\n\n\nIZA Discussion Paper (Sep 2021)."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "posts/2024-01-22-quarto-website/index.html",
+    "href": "posts/2024-01-22-quarto-website/index.html",
+    "title": "Creating an academic website using Quarto",
     "section": "",
-    "text": "[2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne\n[2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney"
-  },
-  {
-    "objectID": "teaching.html#student-supervision",
-    "href": "teaching.html#student-supervision",
-    "title": "Teaching",
-    "section": "",
-    "text": "[2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne\n[2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney"
-  },
-  {
-    "objectID": "teaching.html#teaching",
-    "href": "teaching.html#teaching",
-    "title": "Teaching",
-    "section": "Teaching",
-    "text": "Teaching\n\nMaastricht University, Netherlands\n\nBehavioral Economics (TA in 2015, 2016)\n\nGraduate course\nCourse coordinator: Prof. Dr. Thomas Dohmen\nDuties: teaching, grading, contributing to curriculum design\nTeaching evaluation: 8.8 / 10 (N=21)\n\nPersonnel Economics (TA in 2015, 2016, 2017)\n\nUndergraduate course\nCourse coordinator: Dr. Steffen Künn\nDuties: teaching, grading, contributing to curriculum design\nMy teaching evaluation: 9.3 / 10 (N=70)\n\nPresentation Skills (TA in 2015)\n\nUndergraduate course\nStudent evaluation: 8.7/10"
-  },
-  {
-    "objectID": "posts/2024-01-22-academic-writing/index.html",
-    "href": "posts/2024-01-22-academic-writing/index.html",
-    "title": "Academic Writing",
-    "section": "",
-    "text": "Writing is a core part of our work as academics. I am always surprised to hear my junior peers say that they will invest in their writing skills later on in their career, as if writing doesn’t matter for getting our papers published and actually surviving in academia. First of all, the quality of our prose DOES matter for getting our papers out (my co-author Jan Feld just published an experimental study on this!). Second, spending a bit of energy polishing our papers can be enjoyable, much like any craft that one hones with time. Here are some resources that I keep coming back to, especially when I need inspiration for writing:\n\nthe one and only Economical Writing by Deirdre McCloskey and Stephen Ziliak. This book is beautifully written, insightful and hilarious! I love their tip about writing down ideas on single pieces of paper or postits and playing with the order, and the tip about cutting every third word when polishing a text."
-  },
-  {
-    "objectID": "posts/2022-01-01-R-website/index.html",
-    "href": "posts/2022-01-01-R-website/index.html",
-    "title": "Creating an academic website using RMarkdown",
-    "section": "",
-    "text": "These are the resources I used to make my own website. I tried different things (Wordpress, Squarespace, Jekyll…), and I find that the easiest way by far to create a static website is to use R and host your page via Github Pages. Github allows you to host your website for free, update it super quickly, and will never bug (unlike those sneaker ruby gem updates for your Jekyll page…) :-) Sure, you could make your page using Google Sites, but making your own page from scratch is much more fun!\n\nStart from Emily Zabor’s super simple guide here. Run through the complete guide first, before tweaking the design.\nLearn the basics of RMarkdown to create your own content:\n\nRMarkdown basics here\nMore RMarkdown basics here\nMaking websites using RMarkdown here\n\nThen tweak the design of your website by digging into more advanced topics using more complete guides:\n\nThis online book here\nYan Holtz’s RMarkdown tips here\nAcademic Icons (e.g. for your contact list) here\n\nNote: for more control, you may want to learn a bit about HTML for organizing content and CSS for styling."
+    "text": "Here are resources and tutorials I used to create my personal website using Quarto. My previous website was made using RMarkdown and RStudio, but I have now updated to Quarto, which is the modernized version of RMarkdown.\n\nThe official Quarto website to learn everything about Quarto and making Quarto websites.\nA hands on tutorial to set up a basic Quarto website: (short) Youtube series by Joshua French :\n\n\n\n\nI wanted to add a small blog section on my website, and I used this tutorial by Samantha Csik. The idea behind this blog is to exploit the listings feature of Quarto, and to store the posts appropriately.\nNext, I did some custom styling (scss). To start custom styling, create a text file (e.g., “mystyle.scss”) and refer to it in your YAML under “theme”. I like to place this file in my root directly where the css file is also placed, but you can place it wherever you want as long as you refer to it correctly in your YAML file. Samantha Csik also put together a great set of slides here that explains custom styling. See this Youtube video by Albert Rapp for a tutorial:"
   },
   {
     "objectID": "posts/2023-12-01-replicability/index.html",
