@@ -14,6 +14,10 @@ about:
 
 I am the 2022 McKenzie Postdoctoral Research Fellow at <a href="https://fbe.unimelb.edu.au/economics" target="_blank">the Department of Economics at the University of Melbourne</a>.\ 
 
+<!--
+From May 2026, I will join CREST (Institut Polytechnique, ENSAE) in France as CNRS Research Fellow (CRCN). 
+--> 
+
 I am an economist interested in **applied microeconomics**, **applied econometrics** and the formation of **human capital**. I study how children’s health and education is shaped by their parents, teachers, peers, and education and welfare policies. I am also interested in meta-science and methods to improve the reliability of our empirical research findings. My McKenzie Fellowship project focuses on methods to synthesize and generalize empirical findings in the case of peer effects and teacher role model effects on student performance.\
 
 ## Affiliations
