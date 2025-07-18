@@ -87,26 +87,6 @@ This paper studies how students' relative rank affects their younger siblings’
 Status: RCT in the field.
 
 
-<!--
-
-** Systematic Racial Biases in the French Education System, with Nicolas Salamanca, Guillaume Hollard, Laurent Davezies and Senmiao Wang. 
-
-** The impact of SdT on careers in innovation, with Nicolas Salamanca and Juan David Garcia Gonzales. 
-
-** The impact of PCB on innovation (scientific innovation, patents, careers in R&D), with Nicolas Salamanca and Juan David Garcia Gonzales. 
-
-** The Impact of Paid Parental Leave on Infant Health, with Serena Yu, Maryam Naghsh Nejad and Stefanie Schurer
-
-** Bayesian Meta-Analysis for Transporting scientific knowledge beyond borders, with Nicolas Salamanca, Liana Jacobi and Andres Ramirez Hassan. 
-
-** The medium and long-term impact of cash at Birth on Child Development through Adulthood, with Sarah Dahmann and Deborah Cobb-Clark. 
-
--->
-
-
-
-
-
 ## Other Working Papers 
 
 **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com">Jan Kabátek</a>.\
