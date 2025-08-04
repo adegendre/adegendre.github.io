@@ -72,6 +72,8 @@ future replication efforts.\
 <summary>Abstract</summary>
 Hanushek et al. (2022) show that students in countries in which people are more patient and less risk-taking perform better in the Programme for International Student Assessment (PISA) test. In this paper, we probe the robustness of this study. Our narrow replication shows that the results are mostly robust to alternative model specifications. Our broad replication shows that the main results are robust to measuring student performance with data from The Trends in International Mathematics and Science Study (TIMSS) and The Progress in International Reading Literacy Study (PIRLS) instead of PISA.\
 </details>
+<a href="https://journaldata.zbw.eu/dataset/the-relationship-between-patience-risk-taking-and-human-capital-investment-replication-data">Replication Package</a>\
+
    
    
 ## Selected Research in progress
