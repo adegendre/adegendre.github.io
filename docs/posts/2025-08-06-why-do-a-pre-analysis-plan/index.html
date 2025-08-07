@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-08-06">
+<meta name="description" content="Some thoughts on pre-analysis plans">
 
-<title>Blog – Alexandra de Gendre</title>
+<title>Why make a Pre-Analysis Plan – Alexandra de Gendre</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,29 +25,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//files/favicon-32x32.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<script src="site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../..//files/favicon-32x32.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,77 +73,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Alexandra de Gendre</span>
     </a>
   </div>
@@ -154,27 +96,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./files/AdG_CV.pdf" target="_blank"> 
+    <a class="nav-link" href="../../files/AdG_CV.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> 
+    <a class="nav-link" href="../../talks.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -207,136 +149,59 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Why make a Pre-Analysis Plan</h1>
+                  <div>
+        <div class="description">
+          Some thoughts on pre-analysis plans
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Doing Science</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">August 6, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Coding">Coding <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Doing Science">Doing Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Doing science">Doing science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Writing">Writing <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Blog</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>I have always found that the most challenging part of working in academia is finding the right team. The right team can mean many things, but one of those things is having the same way of doing science. While it may seem obvious, it really isn’t. Like finding the right coach for you at sports, or finding the right partner in life, finding a good match is the difference between a successful long-lasting partnership and a painful experience with lasting harm to your self confidence. This is especially true in Economics where papers can take years until seeing the light of day in a peer-reviewed journal: being committed to a bad team for 5 years or more is 5 years or more of (unnecessary) headaches.</p>
+<p>After several bad matches, I’ve become obsessed with finding ways to screen out bad matches as early as possible and avoid unnecessary struggle. It’s hard enough to do research as it is, that you don’t want to drag a bad team on top of that. You may want to screen teams on many things, but to me a central point is honesty. Honesty in your work, and honesty in how you communicate with and treat your partners.</p>
+<p>As it turns out, honesty is a central aspect of good research practice in the emerging consensus from the science reform movement. There are as many ways of doing bad science–from p-hacking to hypothesis searching after knowing the results (HARKing)–, but we are now starting to see emerge a common framework for good research practice in quantitative fields, for example the FAIR data principles (see [for example]<a href="https://www.nature.com/articles/sdata201618" class="uri">https://www.nature.com/articles/sdata201618</a>). These best practices essentially revolve around <em>transparency</em>, <em>reproducibility</em> and <em>ethical conduct</em>. There are many layers to each of these themes and people have different ways of applying those. To me, an important part of ethics includes the way we communicate with and treat each other in a team, especially those in positions of vulnerability–research assistants, Ph.D.&nbsp;students, postdocs, or anybody in a vulnerable position in the team. And sadly, academia is full of stories of horrible (male <em>and</em> female) supervisors and senior co-authors who treat their more junior peers like carpets.</p>
+<p>One thing that I have found increasingly useful over the years is using pre-analysis plans as a screening device. What is a pre-analysis plan? A Pre-Analysis Plan is a document you write at the beginning of a project <em>before producing any results</em> in which you specify as many details as possible about the study. There are many guidelines and templates out there, here are a few good examples: * a [template]<a href="https://www.bitss.org/wp-content/uploads/2015/12/Pre-Analysis-Plan-Template.pdf" class="uri">https://www.bitss.org/wp-content/uploads/2015/12/Pre-Analysis-Plan-Template.pdf</a> from the Berkeley Initiative for Transparency in Social Sciences (BITSS) * a [page]<a href="https://www.povertyactionlab.org/resource/pre-analysis-plans" class="uri">https://www.povertyactionlab.org/resource/pre-analysis-plans</a> with list of advice and checklist from J-Pal and an official guide [here]<a href="https://adegendre.github.io/posts/2025-08-06-why-do-a-pre-analysis-plan/Pre_Analysis_Plan_Guide.pdf" class="uri">https://adegendre.github.io/posts/2025-08-06-why-do-a-pre-analysis-plan/Pre_Analysis_Plan_Guide.pdf</a> * a [World Bank blog post]<a href="https://blogs.worldbank.org/en/impactevaluations/a-pre-analysis-plan-checklist" class="uri">https://blogs.worldbank.org/en/impactevaluations/a-pre-analysis-plan-checklist</a> from David McKenzie with a checklist</p>
+<p>Even though most of the discussion around using Pre-Analysis Plans focuses on their use in experiments to reduce p-hacking and HARKing (see this excellent paper by [Brodeur, Cook, Hartley and Heyes, 2024]<a href="https://www.journals.uchicago.edu/doi/10.1086/730455" class="uri">https://www.journals.uchicago.edu/doi/10.1086/730455</a>), my experience has been that they are especially useful for team work. Whether you are working on your own or with a team, writing down a Pre-Analysis Plan forces you to clarify the key elements of your project, the research question, the estimation strategy, the key outcomes, how you will measure them and handle multiple hypothesis testing, and the potential channels underlying the effects of interest. These are all things that you will inevitably have to write about later in drafting the paper, so it’s not a waste of time. On the contrary, this can form the basis of the eventual draft. More importantly, it saves you a ton of time when preparing your data because you open up your dataset knowing what is actually relevant for your project, and when estimating your effects of interest because you don’t get lost in specification searching which in any case is in the dangerous territory of p-hacking.</p>
+<p>Beyond the clear advantage of bringing clarity, I see two lesser known advantages to Pre-Analysis Plans for team projects, whether experimental or not.</p>
+<p>The first advantage is that they force the team to sit down and discuss all the details of how exactly they are going to conduct the research. In that sense, it reveals early disagreements that are bound to arise later in approaching data. For example, you have to specify a sequence such as not estimating any results until you have tested the assumptions underlying your research design, agreed on a specification and released the Pre-Analysis Plan.</p>
+<p>The second advantage is that by asking the team to do this together, you immediately reveal who will be a problem on the team, either because of low engagement or because of questionable research practices. In other words, a Pre-Analysis Plan can be used as a screening device for team members, and can be a good way to signal that you care about your own research code of conduct.</p>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-Categories
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Doing Science" data-listing-date-sort="1754402400000" data-listing-file-modified-sort="1754528122562" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="823" data-listing-title-sort="Why make a Pre-Analysis Plan" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Aug 6, 2025</span>
-</td>
-<td>
-<a href="./posts/2025-08-06-why-do-a-pre-analysis-plan/index.html" class="title listing-title">Why make a Pre-Analysis Plan</a>
-</td>
-<td>
-<span class="listing-categories">Doing Science</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Writing" data-listing-date-sort="1705842000000" data-listing-file-modified-sort="1705905656563" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168" data-listing-title-sort="Academic Writing" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Jan 22, 2024</span>
-</td>
-<td>
-<a href="./posts/2024-01-22-academic-writing/index.html" class="title listing-title">Academic Writing</a>
-</td>
-<td>
-<span class="listing-categories">Writing</span>
-</td>
-</tr>
-<tr data-index="2" data-categories="Coding" data-listing-date-sort="1705842000000" data-listing-file-modified-sort="1706266162026" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236" data-listing-title-sort="Creating an academic website using Quarto" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Jan 22, 2024</span>
-</td>
-<td>
-<a href="./posts/2024-01-22-quarto-website/index.html" class="title listing-title">Creating an academic website using Quarto</a>
-</td>
-<td>
-<span class="listing-categories">Coding</span>
-</td>
-</tr>
-<tr data-index="3" data-categories="Doing science" data-listing-date-sort="1701349200000" data-listing-file-modified-sort="1705905764538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="458" data-listing-title-sort="Replicability and Reproducibility" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Dec 1, 2023</span>
-</td>
-<td>
-<a href="./posts/2023-12-01-replicability/index.html" class="title listing-title">Replicability and Reproducibility</a>
-</td>
-<td>
-<span class="listing-categories">Doing science</span>
-</td>
-</tr>
-<tr data-index="4" data-categories="Coding" data-listing-date-sort="1640955600000" data-listing-file-modified-sort="1705905707482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="218" data-listing-title-sort="Creating an academic website using RMarkdown" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Jan 1, 2022</span>
-</td>
-<td>
-<a href="./posts/2022-01-01-R-website/index.html" class="title listing-title">Creating an academic website using RMarkdown</a>
-</td>
-<td>
-<span class="listing-categories">Coding</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -443,6 +308,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
