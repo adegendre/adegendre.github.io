@@ -37,7 +37,8 @@ The idea that students benefit from same-sex teachers has motivated many policie
 <a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Zoelitz_2024.pdf">University of Zurich Working Paper No. 438 (June 2023, Updated May 2024)</a> | <a href="https://www.role-model-effects.com">Website with interactive results</a>.\
 
 
-**Integrating Minorities in the Classroom: The Role of Students, Parents and Teachers** (Submitted), with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou">Yves Zenou</a>.\
+**Integrating Minorities in the Classroom: The Role of Students, Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou">Yves Zenou</a>.\
+(Submitted)
 <details>
 <summary>Abstract</summary>
 We develop a multi-agent model of the education production function where investments of students, parents, and teachers are linked to the presence of minorities in the classroom. We then test the key implications of this model using rich survey data and a mandate to randomly assign students to classrooms. Consistent with our model, we show that exposure to minority peers decreases student effort, parental investments, and teacher engagement and it results in lower student test scores. Observables correlated with minority status explain less than a third of the reduced-form test score effect while over a third can be descriptively attributed to endogenous responses of the agents.
@@ -56,7 +57,8 @@ This study pushes our understanding of research reliability by reproducing and r
 <a href="https://adegendre.github.io/papers/I4R-DP107.pdf">I4R Discussion Paper Series (April 2024)</a>.\
 
 
-**The Sources of Researcher Variation in Economics**, with <a href="https://www.nickchk.com">Nick Huntington-Klein</a>, <a href="https://clausportner.com">Claus C. Pörtner</a> and many others. 
+**The Sources of Researcher Variation in Economics**, with <a href="https://www.nickchk.com">Nick Huntington-Klein</a>, <a href="https://clausportner.com">Claus C. Pörtner</a> and many others.\
+(Submitted)
 <details>
 <summary>Abstract</summary>
 We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which
