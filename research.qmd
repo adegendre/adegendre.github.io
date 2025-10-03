@@ -17,7 +17,7 @@ We estimate the impact on child health of the unanticipated introduction of the 
 <a href="https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf">Slides NBER Summer Institute 2022 (July 2022)</a>.\
 
 
-**Detecting Local Non-Compliance with Random Treatment Assignment in Quasi-Experiments, with an Application to Ability Peer Effects** (Under review), with <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
+**Detecting Local Non-Compliance with Random Treatment Assignment in Quasi-Experiments, with an Application to Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
 (*Revise and Resubmit* at the **Journal of the European Economics Association**).\
 <details>
 <summary>Abstract</summary>
@@ -48,7 +48,7 @@ Media: <a href="https://cepr.org/voxeu/columns/how-students-parents-and-teachers
 Other: Best Paper Award at the 2023 Australian Labour Econometrics Workshop.\
 
   
-**Mass Reproducibility and Replicability: A New Hope** (Submitted), with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
+**Mass Reproducibility and Replicability: A New Hope**, with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
 (*Revise and Resubmit* at **Nature**).\
 <details>
 <summary>Abstract</summary>
