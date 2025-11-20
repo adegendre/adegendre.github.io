@@ -58,7 +58,7 @@ This study pushes our understanding of research reliability by reproducing and r
 
 
 **The Sources of Researcher Variation in Economics**, with <a href="https://www.nickchk.com">Nick Huntington-Klein</a>, <a href="https://clausportner.com">Claus C. Pörtner</a> and many others.\
-(Submitted)
+(*Revise and Resubmit* at the **Journal of Economic Literature**).
 <details>
 <summary>Abstract</summary>
 We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which
