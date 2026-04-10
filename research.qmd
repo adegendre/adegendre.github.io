@@ -62,13 +62,14 @@ future replication efforts.\
 ## Publications
 
 
-**Reproducibility and Robustness of Economics and Political Science Research**, with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
-(*Forthcoming* at **Nature**, previously circulated as "Mass Reproducibility and Replicability: A New Hope").\
+<a href="https://www.nature.com/articles/s41586-026-10251-x">**Reproducibility and Robustness of Economics and Political Science Research**</a> (2026, **Nature** 652, 151-156), with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
+(previously circulated as "Mass Reproducibility and Replicability: A New Hope").\
 <details>
 <summary>Abstract</summary>
 This systematic and large-scale reproduction effort tests the reproducibility and robustness of economics and political science, contributing to a growing literature on research credibility and self-correction in science [1–4]. We reproduced original analyses and conducted robustness checks of 110 articles recently published in leading economics and political science journals, all of which have mandatory data and code sharing policies [17,18]. We found that over 85% of published claims were computationally reproducible. In robustness checks, our re-analyses led to 72% of statistically significant estimates to remain significant and in the same direction, and the median reproduced effect size is (nearly) the same as the originally published effect size (that is, 99% of the published effect size). Additionally, six independent research teams examined 12 pre-specified hypotheses about determinants of robustness. Research teams with more experience found lower levels of robustness, and robustness correlated with neither author characteristics nor data availability.\
 </details>
 <a href="https://adegendre.github.io/papers/I4R-DP107.pdf">I4R Discussion Paper Series (April 2024)</a>.\
+<a href="https://zenodo.org/records/17792605">Replication Data and Code</a>.\
 
 
 <a href="https://doi.org/10.1002/jae.3045">**Re-examining the relationship between patience, risk-taking, and human capital investment across countries**</a> (2024, **Journal of Applied Econometrics**, 1-9.), with <a href="https://janfeld.weebly.com">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
