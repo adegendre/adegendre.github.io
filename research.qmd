@@ -83,6 +83,12 @@ Hanushek et al. (2022) show that students in countries in which people are more 
    
 ## Selected Research in progress
 
+
+
+**Career Mentoring for Underrepresented Talent: Effects on Education, Employment and Innovation**, with Juan David Garcia-Gonzalez and <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
+
+
+
 **Class Rank and Sibling Spillover Effects**\
 <details>
 <summary>Abstract</summary>
@@ -90,9 +96,10 @@ This paper studies how students' relative rank affects their younger siblings’
 </details>
 <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf">Draft JMP version (31 August 2022)</a>.\
    
+<!-- 
 **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com">Siqi Pan</a>.\
 Status: RCT in the field.
-
+--> 
 
 ## Other Working Papers 
 
