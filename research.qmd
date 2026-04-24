@@ -8,7 +8,7 @@ link-external-newwindow: true
 ## Working Papers
 
 **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth**, with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and Stefanie Schurer.\
-(*Revise and Resubmit* at the **Review of Economics and Statistics**).\
+(*Resubmitted* to the **Review of Economics and Statistics**).\
 <details>
 <summary>Abstract</summary>
 We estimate the impact on child health of the unanticipated introduction of the Australian Baby Bonus, a \$3,000 one-off unconditional cash transfer at birth. With population-level administrative data from South Australia and a regression discontinuity design, we find that eligible infants experienced fewer hospital presentations in the first year of life for preventable, acute, and severe problems. In auxiliary analyses using nationally-representative data, we find that the windfall cash allowed parents to increase expenditures on food and groceries, decreased financial stress and hardship, and improved physical and mental health. We calculate that 34\% of the pay-out were recouped within the first year through lower health care costs.
