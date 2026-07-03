@@ -12,13 +12,14 @@ about:
 
 :::{#ppc}
 
-I am the 2022 McKenzie Postdoctoral Research Fellow at <a href="https://fbe.unimelb.edu.au/economics" target="_blank">the Department of Economics at the University of Melbourne</a>. In 2026 I will be joining <a href="https://crest.science" target="_blank">CREST</a> in Paris as <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a> Research Fellow. \ 
+I am the 2022 McKenzie Postdoctoral Research Fellow at <a href="https://fbe.unimelb.edu.au/economics" target="_blank">the Department of Economics at the University of Melbourne</a>. Since 2026 I am also a <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a> Research Fellow affiliated with <a href="https://crest.science" target="_blank">CREST</a> in Paris. \ 
 
-I am an economist interested in **applied microeconomics**, **applied econometrics** and the formation of **human capital**. I study how children’s health and education is shaped by their parents, teachers, peers, and education and welfare policies. I am also interested in meta-science and methods to improve the reliability of our empirical research findings. My McKenzie Fellowship project focuses on methods to synthesize and generalize empirical findings in the case of peer effects and teacher role model effects on student performance.\
+I am an economist interested in **applied microeconomics**, **applied econometrics** and the formation of **human capital**. I study how children’s health and education is shaped by their parents, teachers, peers, and education and welfare policies. I am also interested in **meta-science** and methods to improve the reliability of our empirical research findings. My McKenzie Fellowship project focuses on methods to synthesize and generalize empirical findings in the case of peer effects and teacher role model effects on student performance.\
 
 ## Affiliations
 
 - <a href="https://fbe.unimelb.edu.au/economics" target="_blank">The Department of Economics at the University of Melbourne</a> since February 2022 \
+- <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a> Research Fellow, <a href="https://crest.science" target="_blank">CREST</a>, Paris since February 2026 \
 - <a href="https://www.iza.org/person/26418/alexandra-de-gendre" target="_blank">IZA Institute of Labor Economics</a>  since July 2018 \
 - <a href="https://lifecoursecentre.org.au/members/dr-alexandra-de-gendre/" target="_blank">Australian Research Council (ARC) Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018 \
 
