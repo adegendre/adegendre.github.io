@@ -17,15 +17,6 @@ We estimate the impact on child health of the unanticipated introduction of the 
 <a href="https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf">Slides NBER Summer Institute 2022 (July 2022)</a>.\
 
 
-**The Sources of Researcher Variation in Economics**, with <a href="https://www.nickchk.com">Nick Huntington-Klein</a>, <a href="https://clausportner.com">Claus C. Pörtner</a> and many others.\
-(*Conditionally Accepted* to the **Journal of Economic Literature**).
-<details>
-<summary>Abstract</summary>
-We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which restricted research design choices, exhibited slightly higher IQR (4.0 percentage points), largely attributable to imperfect adherence to the prescribed protocol. By contrast, the final stage, featuring standardized data cleaning, narrowed variation in estimated effects, achieving an IQR of 2.4 percentage points. Reported sample sizes also displayed significant convergence under more restrictive conditions, with the IQR dropping from 295,187 in the first stage to 29,144 in the second, and effectively zero by the third. Our findings underscore the critical importance of data cleaning in shaping applied microeconomic results and highlight avenues for future replication efforts.\
-</details>
-<a href="https://adegendre.github.io/papers/HuntingtonKlein_ssrn-5152665.pdf">SSRN Working Paper (February 2025)</a>.\
-
-
 **Detecting Local Non-Compliance with Random Treatment Assignment in Quasi-Experiments, with an Application to Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
 (*Revise and Resubmit* at the **Journal of the European Economics Association**).\
 <details>
@@ -72,6 +63,15 @@ peer review process does not seem to affect p-hacking or publication bias.
 
    
 ## Publications
+
+
+**The Sources of Researcher Variation in Economics**, with <a href="https://www.nickchk.com">Nick Huntington-Klein</a>, <a href="https://clausportner.com">Claus C. Pörtner</a> and many others.\
+(*Accepted* at the **Journal of Economic Literature**).
+<details>
+<summary>Abstract</summary>
+We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which restricted research design choices, exhibited slightly higher IQR (4.0 percentage points), largely attributable to imperfect adherence to the prescribed protocol. By contrast, the final stage, featuring standardized data cleaning, narrowed variation in estimated effects, achieving an IQR of 2.4 percentage points. Reported sample sizes also displayed significant convergence under more restrictive conditions, with the IQR dropping from 295,187 in the first stage to 29,144 in the second, and effectively zero by the third. Our findings underscore the critical importance of data cleaning in shaping applied microeconomic results and highlight avenues for future replication efforts.\
+</details>
+<a href="https://adegendre.github.io/papers/HuntingtonKlein_ssrn-5152665.pdf">SSRN Working Paper (February 2025)</a>.\
 
 
 <a href="https://www.nature.com/articles/s41586-026-10251-x">**Reproducibility and Robustness of Economics and Political Science Research**</a> (2026, **Nature** 652, 151-156), with <a href="https://sites.google.com/site/abelbrodeur/">Abel Brodeur</a>, <a href="https://sites.google.com/view/derekmikola/home">Derek Mikiola</a> and many others.\
