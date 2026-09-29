@@ -61,6 +61,25 @@ peer review process does not seem to affect p-hacking or publication bias.
 <a href="https://adegendre.github.io/papers/I4R-DP306.pdf">Original Authors Response (June 2026)</a>.\
 
 
+
+**Career Mentoring for Underrepresented Talent: Effects on Education, Employment and Innovation**, with <a href="https://www.linkedin.com/in/judgarciago/?locale=en">Juan David García González</a> and <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>. \
+<details>
+<summary>Abstract</summary>
+This Registered Report presents a causal evaluation of Semillero de Talentos, a low-cost mentoring program for Colombian applicants planning postgraduate studies abroad. The program targets high-achieving, underrepresented, and geographically mobile applicants whose later returns can be large. We exploit the program’s score-based selection in a fuzzy regression discontinuity design across 2,020 applicants and eight cohorts, and we study education, employment, innovation, and migration outcomes through LinkedIn and OpenAlex data. We can detect effects of 11.5 to 18.8 percentage points, commensurate with the precision of published null effects for comparable mentoring programs.\
+</details>
+Registered Report under review.\
+
+
+**Time, Money, and Infant Health: The Consequences of Paid Parental Leave on Infant Health Outcomes in Australia**, with <a href="https://profiles.uts.edu.au/Serena.Yu">Serena Yu</a> and <a href="https://profiles.uts.edu.au/Maryam.NaghshNejad">Maryam Naghsh Nejad</a>. \
+<details>
+<summary>Abstract</summary>
+We estimate the effects of introducing paid parental leave on infant health and health care use in a setting with universal access to health care. We exploit Australia's 2011 reform through a difference-in-discontinuity design and administrative records covering all New South Wales births. We find a 1.3 and 1.2 percentage points decline in probability of any specialist visits and any prescription medications in the first year, and no effects on hospital and emergency presentations. The reduction in any medication use persist until age five and estimates are larger among young mothers who were least likely to have had employer leave. Survey data suggest that the reform eased financial strain and preserved employment, pointing to improved parental resources and time.\
+</details>
+<a href="https://osf.io/ksbj4/files/34ugf">Pre-Analysis Plan</a>. \
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7534858">*NEW Working Paper* (September 2026)</a>.\
+
+
+
    
 ## Publications
 
@@ -95,14 +114,6 @@ Hanushek et al. (2022) show that students in countries in which people are more 
    
 ## Selected Research in progress
 
-
-
-**Career Mentoring for Underrepresented Talent: Effects on Education, Employment and Innovation**, with Juan David Garcia-Gonzalez and <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>.\
-
-
-**Time, Money, and Infant Health: The Consequences of Paid Parental Leave on Infant Health Outcomes in Australia**, with Serena Yu and Maryam Naghsh Nejad. <a href="https://osf.io/ksbj4/files/34ugf">Pre-Analysis Plan</a>. \
-
-
 **Class Rank and Sibling Spillover Effects**\
 <details>
 <summary>Abstract</summary>
@@ -115,7 +126,7 @@ This paper studies how students' relative rank affects their younger siblings’
 Status: RCT in the field.
 --> 
 
-## Other Working Papers 
+## Permanent Working Papers 
 
 **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with Jan Kabátek.\
 <details>
