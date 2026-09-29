@@ -67,7 +67,8 @@ peer review process does not seem to affect p-hacking or publication bias.
 <details>
 <summary>Abstract</summary>
 This Registered Report presents a causal evaluation of Semillero de Talentos, a low-cost mentoring program for Colombian applicants planning postgraduate studies abroad. The program targets high-achieving, underrepresented, and geographically mobile applicants whose later returns can be large. We exploit the program’s score-based selection in a fuzzy regression discontinuity design across 2,020 applicants and eight cohorts, and we study education, employment, innovation, and migration outcomes through LinkedIn and OpenAlex data. We can detect effects of 11.5 to 18.8 percentage points, commensurate with the precision of published null effects for comparable mentoring programs.\
-</details>
+</details> \
+
 
 
 **Time, Money, and Infant Health: The Consequences of Paid Parental Leave on Infant Health Outcomes in Australia**, with <a href="https://profiles.uts.edu.au/Serena.Yu">Serena Yu</a> and <a href="https://profiles.uts.edu.au/Maryam.NaghshNejad">Maryam Naghsh Nejad</a>. \
