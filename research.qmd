@@ -57,7 +57,7 @@ This Registered Report presents a causal evaluation of Semillero de Talentos, a 
 </details> \
 
 
-**Time, Money, and Infant Health: The Consequences of Paid Parental Leave on Infant Health Outcomes**, with <a href="https://profiles.uts.edu.au/Serena.Yu">Serena Yu</a> and <a href="https://profiles.uts.edu.au/Maryam.NaghshNejad">Maryam Naghsh Nejad</a>. \
+**Time, Money, and Infant Health: The Consequences of Paid Parental Leave**, with <a href="https://profiles.uts.edu.au/Serena.Yu">Serena Yu</a> and <a href="https://profiles.uts.edu.au/Maryam.NaghshNejad">Maryam Naghsh Nejad</a>. \
 <details>
 <summary>Abstract</summary>
 We estimate the effects of introducing paid parental leave on infant health and health care use in a setting with universal access to health care. We exploit Australia's 2011 reform through a difference-in-discontinuity design and administrative records covering all New South Wales births. We find a 1.3 and 1.2 percentage points decline in probability of any specialist visits and any prescription medications in the first year, and no effects on hospital and emergency presentations. The reduction in any medication use persist until age five and estimates are larger among young mothers who were least likely to have had employer leave. Survey data suggest that the reform eased financial strain and preserved employment, pointing to improved parental resources and time.\
