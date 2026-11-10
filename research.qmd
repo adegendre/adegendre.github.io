@@ -50,7 +50,7 @@ Media: <a href="https://cepr.org/voxeu/columns/how-students-parents-and-teachers
 Other: Best Paper Award at the 2023 Australian Labour Econometrics Workshop.\
 
 
-**Career Mentoring for Underrepresented Talent: Effects on Education, Employment and Innovation**, with <a href="https://www.linkedin.com/in/judgarciago/?locale=en">Juan David García González</a> and <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>. \
+**Career Mentoring for Underrepresented Talent: Effects on Education, Employment and Innovation**, with <a href="https://jdgarciago.github.io/">Juan David Garcia-Gonzalez</a> and <a href="https://sites.google.com/view/nsalamanca/home">Nicolás Salamanca</a>. \
 (*Registered Report Under Review*)
 <details>
 <summary>Abstract</summary>
