@@ -1,0 +1,51 @@
+---
+title: "The crisis in science and some of its causes"
+description: "Some thoughts on the replication crisis and the file drawer problem"
+date: 2026-11-17
+categories: [Doing Science] # self-defined categories
+# image: preview-image.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+link-external-newwindow: true
+---
+
+This post goes with [The Double Failure of Bad Science](../2026-11-17-double-failure-of-bad-science/index.qmd), where I explain why I am writing these thoughts down. Here I describe the crisis in science and my understanding of some of its causes in more detail.
+
+The recent decade has witnessed a crisis in science and public inquiry into the credibility of scientific findings. Scientific failures are not just embarrassing; they are a massive source of waste.
+
+In 2015, the [Open Science Collaboration](https://doi.org/10.1126/science.aac4716) found that fewer than half of the published psychology results it tried to reproduce held up. The following year, [a team of economists led by Colin Camerer](https://doi.org/10.1126/science.aaf0918) tried to replicate experimental economics papers from the *American Economic Review* and the *Quarterly Journal of Economics*, two of the most respected journals in the field. Only about 61 percent of articles replicated. To replicate a study is to run it again, with new participants or new data, and to check whether the same result comes out.
+
+Since then, an emerging body of work has identified several culprits. The first culprit is studies that are too small to reliably detect what they claim to find, often leading to false claims ([Ioannidis 2005](https://doi.org/10.1371/journal.pmed.0020124), *PLoS Medicine*; [Button et al. 2013](https://doi.org/10.1038/nrn3475) for neuroscience). With few participants, chance alone can produce a striking result. The smaller the study, the more likely it is that a striking result is a fluke.
+
+The second culprit is protocols described too thinly for anyone else to faithfully repeat the experiment. A protocol is the full description of the way a study was run: the participants, the tasks they were given, and the way their answers were measured. When that description is incomplete, a second team cannot run the same study.
+
+The third culprit is samples that are not representative of anyone, with most behavioral findings resting on "WEIRD" subjects, usually Western university students ([Henrich, Heine and Norenzayan 2010](https://doi.org/10.1017/S0140525X0999152X)). WEIRD stands for Western, Educated, Industrialized, Rich, and Democratic. A result found among students at a few Western universities may not hold for the rest of the world.
+
+Replication failure is one half of the scientific crisis. The other half is publication bias: because null effects are much harder to publish than striking results, the published scientific literature in many fields is biased towards attention-grabbing findings. A null effect means that the study found no sign that the treatment or the policy it tested made a difference. In those areas of research, studies with large, striking findings are over-represented, while studies that find null effects often don't get published at all (the so-called "[file drawer problem](https://doi.org/10.1037/0033-2909.86.3.638)"). The name comes from the filing cabinet where those studies stay, unread. A policymaker reading the literature is reading a selected slice of the evidence.
+
+Albeit rare, scientific fraud never fails to make headlines and does contribute to the crisis of confidence (Diederik Stapel; the Gino and Ariely data-fabrication allegations). On the Gino and Ariely case, see the blog pieces by Data Colada ([here](https://datacolada.org/98) and [here](https://datacolada.org/109)) and the fantastic piece in the [*New Yorker*](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie). In a field where a fraudster has been uncovered, the rest of the field spends years cleaning up while public trust takes the hit. The cleanup can be just as long when no fraud is involved. See Susan Dominus's [*New York Times Magazine* account](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html) of what followed Amy Cuddy's [power-pose research](https://doi.org/10.1177/0956797610383437) (the claim that holding a confident posture for a couple of minutes changes a person's hormones and behavior) after it [failed to replicate](https://doi.org/10.1177/0956797614553946).
+
+Conflicts of interest are a related but distinct issue. A conflict of interest arises when the people who fund or run a study gain from one particular result. The long-running cultural belief that "breakfast is the most important meal of the day" began in large part as a marketing slogan from cereal manufacturers, including Kellogg's, in the early twentieth century, a small but durable example of how commercial interests can shape what looks, decades later, like settled common sense. The deeper imprint of industry-funded nutrition research and pharmaceutical-company studies on the medical and life-sciences record is harder to overstate.
+
+Importantly, however, genuine heterogeneity can also explain a "failed" replication: real differences across populations, or differences in institutions and incentives. A result that does not replicate in a new place may still be correct in the place where it was first found. I come back to this point in [the main post](../2026-11-17-double-failure-of-bad-science/index.qmd).
+
+I listed the resources that have nourished my thoughts on this topic in [an earlier post](../2023-12-01-replicability/index.qmd).
+
+## References
+
+**Research papers**
+
+- Button, Katherine S., John P. A. Ioannidis, Claire Mokrysz, et al. 2013. Power Failure: Why Small Sample Size Undermines the Reliability of Neuroscience. *Nature Reviews Neuroscience*, 14(5), 365–376. [Available here.](https://doi.org/10.1038/nrn3475)
+- Camerer, Colin F., Anna Dreber, Eskil Forsell, et al. 2016. Evaluating Replicability of Laboratory Experiments in Economics. *Science*, 351(6280), 1433–1436. [Available here.](https://doi.org/10.1126/science.aaf0918)
+- Carney, Dana R., Amy J. C. Cuddy and Andy J. Yap. 2010. Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance. *Psychological Science*, 21(10), 1363–1368. [Available here.](https://doi.org/10.1177/0956797610383437)
+- Henrich, Joseph, Steven J. Heine and Ara Norenzayan. 2010. The Weirdest People in the World? *Behavioral and Brain Sciences*, 33(2–3), 61–83. [Available here.](https://doi.org/10.1017/S0140525X0999152X)
+- Ioannidis, John P. A. 2005. Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124. [Available here.](https://doi.org/10.1371/journal.pmed.0020124)
+- Open Science Collaboration. 2015. Estimating the Reproducibility of Psychological Science. *Science*, 349(6251), aac4716. [Available here.](https://doi.org/10.1126/science.aac4716)
+- Ranehill, Eva, Anna Dreber, Magnus Johannesson, et al. 2015. Assessing the Robustness of Power Posing: No Effect on Hormones and Risk Tolerance in a Large Sample of Men and Women. *Psychological Science*, 26(5), 653–656. [Available here.](https://doi.org/10.1177/0956797614553946)
+- Rosenthal, Robert. 1979. The File Drawer Problem and Tolerance for Null Results. *Psychological Bulletin*, 86(3), 638–641. [Available here.](https://doi.org/10.1037/0033-2909.86.3.638)
+
+**Other sources**
+
+- Data Colada. 2021. \[98\] Evidence of Fraud in an Influential Field Experiment About Dishonesty. 17 August 2021. [Available here.](https://datacolada.org/98)
+- Data Colada. 2023. \[109\] Data Falsificada (Part 1): "Clusterfake". 17 June 2023. [Available here.](https://datacolada.org/109)
+- Dominus, Susan. 2017. When the Revolution Came for Amy Cuddy. *The New York Times Magazine*, 18 October 2017. [Available here.](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html)
+- Lewis-Kraus, Gideon. 2023. They Studied Dishonesty. Was Their Work a Lie? *The New Yorker*, 30 September 2023. [Available here.](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
