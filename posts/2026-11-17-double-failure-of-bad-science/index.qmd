@@ -4,7 +4,7 @@ description: "Some thoughts on bad science and on using evidence with discernmen
 date: 2026-11-17
 categories: [Doing Science] # self-defined categories
 # image: preview-image.png
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 link-external-newwindow: true
 ---
 
